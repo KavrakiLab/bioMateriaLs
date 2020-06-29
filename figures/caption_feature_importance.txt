@@ -1,0 +1,1 @@
+FigureX. Importance of features is plotted for all 5 features of the RFr model. Implementation of sklearn's importance extraction was used.
