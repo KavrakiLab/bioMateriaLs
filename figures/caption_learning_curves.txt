@@ -1,1 +1,1 @@
-FigureX. RFr models were trained on incremental subsets of datasets (full dataset, fixed spacing dataset, fixed layer and spacing dataset). Test accuracies are reported and plotted for different portions of data (from 0% to 100%).
+Figure3. Test accuracies are reported for RFr models trained on incremental subsets of three datasets (full dataset, fixed spacing dataset, fixed layer and spacing dataset). and plotted for different portions of data (from 0% to 100%).
